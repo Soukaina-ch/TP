@@ -1,0 +1,36 @@
+Welcome to your complete guide to documenting Python code. Whether you’re documenting a small script or a large project, whether you’re a beginner or a seasoned Pythonista, this guide will cover everything you need to know.
+
+We’ve broken up this tutorial into four major sections:
+
+Why Documenting Your Code Is So Important: An introduction to documentation and its importance
+Commenting vs Documenting Code: An overview of the major differences between commenting and documenting, as well as the appropriate times and ways to use commenting
+Documenting Your Python Code Base Using Docstrings: A deep dive into docstrings for classes, class methods, functions, modules, packages, and scripts, as well as what should be found within each one
+Documenting Your Python Projects: The necessary elements and what they should contain for your Python projects
+Feel free to read through this tutorial from beginning to end or jump to a section you’re interested in. It was designed to work both ways.
+
+ Take the Quiz: Test your knowledge with our interactive “Documenting Python Code: A Complete Guide” quiz. You’ll receive a score upon completion to help you track your learning progress:
+
+Documenting Python Code Guide
+Interactive Quiz
+
+Documenting Python Code: A Complete Guide
+In this quiz, you'll test your understanding of documenting Python code. With this knowledge, you'll be able to effectively document your Python scripts and projects, making them more understandable and maintainable.
+
+Why Documenting Your Code Is So Important
+Hopefully, if you’re reading this tutorial, you already know the importance of documenting your code. But if not, then let me quote something Guido mentioned to me at a recent PyCon:
+
+“Code is more often read than written.”
+
+— Guido van Rossum
+
+When you write code, you write it for two primary audiences: your users and your developers (including yourself). Both audiences are equally important. If you’re like me, you’ve probably opened up old codebases and wondered to yourself, “What in the world was I thinking?” If you’re having a problem reading your own code, imagine what your users or other developers are experiencing when they’re trying to use or contribute to your code.
+
+Conversely, I’m sure you’ve run into a situation where you wanted to do something in Python and found what looks like a great library that can get the job done. However, when you start using the library, you look for examples, write-ups, or even official documentation on how to do something specific and can’t immediately find the solution.
+
+After searching, you come to realize that the documentation is lacking or even worse, missing entirely. This is a frustrating feeling that deters you from using the library, no matter how great or efficient the code is. Daniele Procida summarized this situation best:
+
+“It doesn’t matter how good your software is, because if the documentation is not good enough, people will not use it.“
+
+— Daniele Procida
+
+In this guide, you’ll learn from the ground up how to properly document your Python code from the smallest of scripts to the largest of Python projects to help prevent your users from ever feeling too frustrated to use or contribute to your project.

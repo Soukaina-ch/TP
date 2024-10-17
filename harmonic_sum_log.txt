@@ -1,0 +1,4 @@
+2024-10-17 10:27:54,792 - INFO - Début du programme
+2024-10-17 10:27:54,792 - ERROR - Erreur : Le nombre doit être strictement positif.
+2024-10-17 10:27:54,793 - ERROR - Erreur : Le nombre doit être strictement positif.
+2024-10-17 10:27:54,794 - INFO - Fin du programme
